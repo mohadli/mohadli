@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Blockchain entusiast since 2017<br>💼 I'm currently into ENS scaling solutions using CCIP read and layer two networks<br>🗂️ I have experience in core blockchain development and operations with Hyperledger Besu <br>🔭 I have researched the details of AMM models in DEXs and published a paper about it<br>🎯 I'm interested in learning more about ZKP and their applications for enhancing the trust paradigm<br>📚 Aside from web3 development, I have done multiple university-grade projects with JAVA and C++</p>
+<p align="left">✨ Blockchain enthusiast since 2017<br>💼 I'm currently into ENS scaling solutions using CCIP read and layer two networks<br>🗂️ I have experience in core blockchain development and operations with Hyperledger Besu <br>🔭 I have researched the details of AMM models in DEXs and published a paper about it<br>🎯 I'm interested in learning more about ZKP and their applications for enhancing the trust paradigm<br>📚 Aside from web3 development, I have done multiple university-grade projects with JAVA and C++</p>
 
 ###
 
