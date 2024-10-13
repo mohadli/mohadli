@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">This is Ali Asef</p>
+<p align="left">This is Ali Asef
+<br>📧 maasef8@gmail.com<br>
+</p>
 
 ###
 
